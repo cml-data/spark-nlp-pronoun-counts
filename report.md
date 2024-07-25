@@ -1,11 +1,3 @@
-An introduction section, explaining how you formulate the problem.
-A methodology section, explaining your datasets and your technologies (SparkNLP, most likely)
-Your hypothesis, its own section.
-An evaluation section, outlining how you conducted your test, reproducibly
-It must contain actionable source code.
-It must contain at least one embedded data visualization.
-
-
 # The Glass Ceiling in Science Fiction
 
 ## Introduction
